@@ -1,0 +1,13 @@
+Changes
+MANIFEST
+MANIFEST.SKIP
+Makefile.PL
+README
+lib/IP/CountryFlag.pm
+lib/IP/CountryFlag/Params.pm
+lib/IP/CountryFlag/UserAgent.pm
+lib/IP/CountryFlag/UserAgent/Exception.pm
+t/00-load.t
+t/01-save.t
+t/manifest.t
+t/pod.t
