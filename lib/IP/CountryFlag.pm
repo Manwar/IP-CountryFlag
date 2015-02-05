@@ -1,6 +1,7 @@
 package IP::CountryFlag;
 
-$IP::CountryFlag::VERSION = '0.06';
+$IP::CountryFlag::VERSION   = '0.07';
+$IP::CountryFlag::AUTHORITY = 'cpan:MANWAR';
 
 =head1 NAME
 
@@ -8,7 +9,7 @@ IP::CountryFlag - Interface to fetch country flag of an IP.
 
 =head1 VERSION
 
-Version 0.06
+Version 0.07
 
 =cut
 
@@ -127,7 +128,7 @@ L<http://search.cpan.org/dist/IP-CountryFlag/>
 
 =head1 LICENSE AND COPYRIGHT
 
-Copyright (C) 2011 - 2014 Mohammad S Anwar.
+Copyright (C) 2011 - 2015 Mohammad S Anwar.
 
 This  program  is  free software; you can redistribute it and/or modify it under
 the  terms  of the the Artistic License (2.0). You may obtain a copy of the full

@@ -1,5 +1,11 @@
 Revision history for IP-CountryFlag
 
+0.07    Thu Feb 05 11:35:00 2015
+        - Updated MANIFEST.SKIP file to ignore folder '_eumm'.
+        - Added LICENSE file.
+        - Defined $AUTHORITY in all the packages of the distribution.
+        - Updated Copyright year information.
+
 0.06    Tue Dec 16 10:53:00 2014
         - Added missing dependency 'HTTP::Tiny' to Mafefile.PL file.
 
