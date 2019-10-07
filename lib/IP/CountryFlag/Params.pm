@@ -1,6 +1,6 @@
 package IP::CountryFlag::Params;
 
-$IP::CountryFlag::Params::VERSION   = '0.12';
+$IP::CountryFlag::Params::VERSION   = '0.13';
 $IP::CountryFlag::Params::AUTHORITY = 'cpan:MANWAR';
 
 =head1 NAME
@@ -9,7 +9,7 @@ IP::CountryFlag::Params - Placeholder for parameters for IP::CountryFlag.
 
 =head1 VERSION
 
-Version 0.12
+Version 0.13
 
 =cut
 
