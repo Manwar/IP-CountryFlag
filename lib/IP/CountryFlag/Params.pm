@@ -15,7 +15,6 @@ Version 0.13
 
 use 5.006;
 use strict; use warnings;
-use Data::Dumper;
 use Data::Validate::IP qw(is_ipv4 is_ipv6);
 use parent 'Exporter';
 

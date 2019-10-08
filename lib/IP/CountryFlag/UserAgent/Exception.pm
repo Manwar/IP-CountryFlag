@@ -14,7 +14,6 @@ Version 0.13
 =cut
 
 use 5.006;
-use Data::Dumper;
 
 use Moo;
 use namespace::clean;
