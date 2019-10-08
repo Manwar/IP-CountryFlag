@@ -15,7 +15,6 @@ Version 0.13
 
 use 5.006;
 use autodie;
-use Data::Dumper;
 use IP::CountryFlag::UserAgent;
 use File::Spec::Functions qw(catfile);
 use IP::CountryFlag::Params qw(validate);
